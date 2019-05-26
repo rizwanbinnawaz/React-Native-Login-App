@@ -1,0 +1,9 @@
+{
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://s8-7k3.anonymous.awesomeproject.exp.direct",
+  "packagerNgrokUrl": "https://packager.s8-7k3.anonymous.awesomeproject.exp.direct",
+  "ngrokPid": 2740,
+  "devToolsPort": 19002,
+  "packagerPort": 19001,
+  "packagerPid": 27900
+}
